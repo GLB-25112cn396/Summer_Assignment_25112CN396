@@ -1,9 +1,8 @@
-
 #include<stdio.h>
 int main()
 {
     int n,r,prd=1;
-    printf("Enter the nuber:");
+    printf("Enter the number:");
     scanf("%d",&n);
     while(n>0)
     {
