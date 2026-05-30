@@ -1,2 +1,2 @@
 # Summer_Assignment_25112CN396
-This is my repositry.
+This is my summer Assignment.
